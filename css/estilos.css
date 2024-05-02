@@ -1,0 +1,128 @@
+#body{
+    background: linear-gradient(to bottom, rgb(255, 253, 253), rgb(255, 0, 0), white);
+
+}
+
+
+#logotipo{
+    width: 100px;
+
+}
+
+#acercade{
+    background:linear-gradient(to bottom, red, rgb(255, 0, 0));
+    padding: 30px;
+}
+
+#acercade p{
+    text-align: justify;
+    color:white;
+    font-size: 20px;
+}
+
+#noticia{
+    width: 500px;
+    height: 442px;
+
+}
+
+#noticia2{
+    width: 500px;
+    height: 418px;
+
+}
+
+#noticia3{
+    width: 500px;
+    height: 442px;
+
+}
+
+#cont{
+    margin-top: 300px;
+    text-align: center;
+}
+
+#perfil{
+    border-radius: 150px;
+    width: 300px;
+    height: 300px;
+
+}
+
+#contenedor2{
+    margin-top: 600px;
+    padding-left: 800px;
+    font-size: 25px;
+    text-decoration: underline;
+  
+}
+
+footer {
+    background: linear-gradient(white,rgb(255, 0, 0));
+    color: black;
+    padding: 20px;
+    margin-top: 600px;
+    border: 1px solid black
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav li a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    text-decoration: underline;
+  }
+    
+#body2{
+    background: linear-gradient(rgb(3, 3, 90),white);
+}
+
+
+
+
+#carLogin{
+    width: 600px;
+    
+
+}
+
+#cont3{
+width: 50%;
+margin-top: 100px;
+margin-left: 350px;
+padding: 40px;
+padding-left: 15px;
+
+}
+
+#cont4{
+    width: 90%;
+    text-align: center;
+    margin-left: 130px;
+    margin-top: 100px;
+    padding-right:100px;
+}
+
+#textoCan{
+    text-align: center;
+    padding-left: 200px;
+}
+
+#boxcan{
+    width: 30px;
+    margin-left: 10px;
+}
